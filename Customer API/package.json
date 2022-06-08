@@ -1,0 +1,16 @@
+{
+  "name": "customer-api",
+  "version": "1.0.0",
+  "description": "- First, you need to be Download & install Postman.\r - After that, Download & install Nodejs.\r - Clone or Download Customer API Repository & import that collection file into your Postman.\r - Open Powershell window here (Customer API Folder) using shift + right-click. \r - Check prerequisite install node version using ( node --version )\r - Now need to install Newman using ( npm i newman )\r - Run report using Newman:",
+  "main": "index.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.9"
+  }
+}
