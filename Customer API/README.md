@@ -1,6 +1,11 @@
 # Customer API
 
 - First, you need to be Download & install Postman.
+
+```sh
+ Random Create New Customer:  "name":"{{$randomFullName}}"
+```
+
 - After that, Download & install Nodejs.
 - Clone or Download Customer API Repository & import that collection file into your Postman.
 - Open Powershell window here (Customer API Folder) using shift + right-click. 
