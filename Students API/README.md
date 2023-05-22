@@ -5,3 +5,7 @@
 ## Json-Server
 -	npm install -g json-server
 -	command prompt: json-server students.json
+
+##
+- https://jsonpathfinder.com
+- https://jsonpath.com 
