@@ -9,3 +9,4 @@
 ##
 - https://jsonpathfinder.com
 - https://jsonpath.com 
+- https://www.liquid-technologies.com/online-json-to-schema-converter
