@@ -12,4 +12,4 @@
 - https://www.liquid-technologies.com/online-json-to-schema-converter
 
 ## File Upload API
-- java -jar file-upload-RestAPI.jar
+- command prompt: java -jar file-upload-RestAPI.jar
