@@ -13,3 +13,4 @@
 
 ## File Upload API
 - command prompt: java -jar file-upload-RestAPI.jar
+- http://localhost:8080
